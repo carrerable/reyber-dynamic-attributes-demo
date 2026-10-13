@@ -4,11 +4,11 @@
 
 *Real product, demo tenant with fictional data.*
 
-![Authentication flows: login, 2FA, backup code, password recovery and invitation.](docs/screenshots/reyber-auth.webp)
+![Policy portfolio: line, insurer, agent, term, premium and status in a single table.](docs/screenshots/reyber-portfolio.webp)
 
-![Dynamic-attribute form for the Auto line of business.](docs/screenshots/reyber-auto-form.webp)
+![Dynamic fields of the Auto line: types, required flags and searchable fields, defined without code.](docs/screenshots/reyber-dynamic-fields.webp)
 
-![Catalog of dynamic field types in edit and read-only states.](docs/screenshots/reyber-field-types.webp)
+![Policy detail: header with status and premium, tabs, and the issuance, term and premium breakdown.](docs/screenshots/reyber-policy-detail.webp)
 
 > Public mini-demo with fictional data. The full product is private; access on request: carrerabernal@gmail.com
 
